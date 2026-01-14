@@ -23,7 +23,7 @@ jobs:
       - uses: uclahs-cds/tool-static-analysis@v1
         # The below is optional and shows the default value
         with:
-          docker-tag: latest
+          docker-tag: 1.0.1
 ```
 
 ## Versioning
