@@ -6,4 +6,4 @@ runs:
   using: "composite"
   steps:
     - name: Run static checks
-      uses: docker://ghcr.io/boutros-lab-sbp/cicd-base:DOCKER_IMAGE_TAG
+      uses: docker://ghcr.io/theboutroslab/cicd-base:DOCKER_IMAGE_TAG
