@@ -1,6 +1,6 @@
 # Static Code Analysis for the Boutros Lab
 
-[![GitHub release](https://img.shields.io/github/v/release/Boutros-Lab-SBP/tool-static-analysis)](https://github.com/Boutros-Lab-SBP/tool-static-analysis/actions/workflows/prepare-release.yaml)
+[![GitHub release](https://img.shields.io/github/v/release/TheBoutrosLab/tool-static-analysis)](https://github.com/TheBoutrosLab/tool-static-analysis/actions/workflows/prepare-release.yaml)
 
 Run static analyses for code style, linting, and repository configuration.
 
@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: uclahs-cds/tool-static-analysis@v1
+      - uses: TheBoutrosLab/tool-static-analysis@v1
         # The below is optional and shows the default value
         with:
           docker-tag: 1.0.1
