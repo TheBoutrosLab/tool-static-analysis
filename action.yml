@@ -21,7 +21,7 @@ runs:
 
     # https://github.com/orgs/community/discussions/9049#discussioncomment-4239509
     # Due to limitations on composite Actions, we can't do something like:
-    # - uses: docker://ghcr.io/uclahs-cds/cicd-base:${{ inputs.docker-tag }}
+    # - uses: docker://ghcr.io/theboutroslab/cicd-base:${{ inputs.docker-tag }}
     # Instead, we need to write another action.yml on-the-fly and then use that.
     # There absolutely should not be an 'action.yml' file underneath the .git
     # folder of the calling repository already, so we can use that.
