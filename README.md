@@ -25,7 +25,7 @@ jobs:
       - uses: TheBoutrosLab/tool-static-analysis@v1
         # The below is optional and shows the default value
         with:
-          docker-tag: 1.0.1
+          docker-tag: 1.3.0
 ```
 
 ## Versioning
