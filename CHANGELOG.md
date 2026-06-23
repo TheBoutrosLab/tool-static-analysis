@@ -10,14 +10,14 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ### Changed
 
-- Use `v1.3.0` as deafult CICD Docker image version
+- Use `v1.3.0` as default CICD Docker image version
 
 ## [1.3.0] - 2026-01-15
 
 ### Changed
 
 - Change organization name to `TheBoutrosLab`
-- Use `v1.2.0` as deafult CICD Docker image version
+- Use `v1.2.0` as default CICD Docker image version
 
 ## [1.2.0] - 2026-01-14
 
