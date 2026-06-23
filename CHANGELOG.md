@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+
+- Use `v1.3.0` as deafult CICD Docker image version
+
 ## [1.3.0] - 2026-01-15
 
 ### Changed
